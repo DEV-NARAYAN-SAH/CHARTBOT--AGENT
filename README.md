@@ -4,7 +4,8 @@
 
 This is a simple yet powerful Chatbot Agent built using Streamlit and powered by LLaMA3 via the Groq API. The chatbot can hold multi-turn conversations and is designed for real-time human-like interactions.
 
-📌 Features
+📌 Features:
+
 🔥 Real-time interaction with LLaMA3 via Groq
 
 💬 Multi-turn conversation support
