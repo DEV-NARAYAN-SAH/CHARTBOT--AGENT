@@ -1,5 +1,7 @@
 # CHARTBOT--AGENT
-🤖 Chatbot Agent with LLaMA3 (Groq)
+
+🤖 Chatbot Agent with LLaMA3 (Groq):
+
 This is a simple yet powerful Chatbot Agent built using Streamlit and powered by LLaMA3 via the Groq API. The chatbot can hold multi-turn conversations and is designed for real-time human-like interactions.
 
 📌 Features
